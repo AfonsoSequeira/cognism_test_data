@@ -1,0 +1,16 @@
+gmbh
+kg
+ag
+GmbH & Co. KGaA
+LP
+LLP
+LLLP
+LLC
+PLLC
+corp
+corporation
+inc
+cic
+cio
+ltd
+s.a.

@@ -1,11 +1,8 @@
 import re  
 import os
 import csv 
-os.chdir("C:/Users/User/Desktop/Cognism Assessment/cognism_test_data/cognism_test_data")
 
 class NameComponents():
-    
-    
     def __init__(self):
         #open legal.txt and extract all legal identifiers
         self.legal_ids = []
